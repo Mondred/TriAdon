@@ -10,7 +10,8 @@
 }
 .img-wrap {
     margin: 0 auto;
-    height:100vh
+    height:100vh;
+    width:fit-content;
 }
 
 img {
