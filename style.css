@@ -9,9 +9,7 @@
     position: relative;
 }
 .img-wrap {
-    margin: 0 auto;
-    height:100vh;
-    width:fit-content;
+    width: 500px;
 }
 
 img {
